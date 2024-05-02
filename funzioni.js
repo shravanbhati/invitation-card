@@ -27,6 +27,6 @@
       var hide = document.getElementById("fakesite");
       hide.style.display = "none";
 	  show.style.display = "block";
-      document.getElementById("message").innerHTML = "<h1><strong><em>WELCOME TO SEE YOUR BHABHI HERE MUH DIKHAI!</em></strong></h1>"
+      document.getElementById("message").innerHTML = "<h1><strong><em>SEE YOUR BHABHI FOR MUH DIKHAI! 😊</em></strong></h1>"
    };
    
