@@ -3,4 +3,4 @@
 
 Have fun scaring your friends :D
 
-Example site : http://redirect-to-darknet.tk
+Example site : https://shravanbhati.site/invitation-card
